@@ -1,6 +1,6 @@
 # my_first_app
 
-A new Flutter project.
+I've built a WhatsApp-like app using Flutter. It's all about creating a user-friendly chat experience. I've designed the app's look and feel, added chat lists, and made sure contacts have circular profile pictures for a nice touch. It's a fun project that showcases my design and app-building skills.
 
 ## Getting Started
 
